@@ -8,7 +8,7 @@ __pycache__/
 .venv/
 
 # Streamlit cache
-.streamlit/secrets.toml
+.streamlit/
 
 # Distribution / packaging
 dist/
